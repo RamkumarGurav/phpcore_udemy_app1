@@ -1,0 +1,19 @@
+html{
+  font-family: sans-serif;
+}
+
+
+
+.btn {
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 600;
+  background-color: rgb(15, 163, 248);
+}
+
